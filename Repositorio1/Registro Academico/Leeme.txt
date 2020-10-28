@@ -1,0 +1,28 @@
+Jurgen Francisco Bermudez Picado 1M1-CO Lenguajes de Programacion
+
+Contiene:
+
+Codigo fuente
+
+Libreria de Validaciones (Actualizada)
+Libreria de Recursos (Actualizada)
+Libreria adicional (Esta contiene parte del codigo principal debido al exceso del peso de este)
+
+Carpeta FileC (Contiene los Ficheros donde se guarda la informacion)
+
+ACCESO -> Unicamente para lectura de credenciales
+ALUMNOS -> Lectura y escrituras de datos estructuras en binario
+INDICES -> Lectura y escritura de datos enteros (indicadores)
+
+Usuarios	Contraseña
+
+Jurgen		Qwerty20*
+Nelson		Asdf30++
+Admin		Contra12- (Unicamente al Administrador le saldra la opcion de eliminar)
+
+Recuerde configurar el teclado al momento de ingresar credenciales.
+
+La carpeta FileC se ubica a raiz del Disco local
+
+
+
