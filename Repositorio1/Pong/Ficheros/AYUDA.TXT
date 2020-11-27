@@ -1,0 +1,11 @@
+General: Se presenta la pantalla de inicio del juego el cual se muestra 5
+opciones, Jugar, Ayuda, Puntaje, Registro y Salir. En este juego todo
+es controlado por Mouse.
+Jugar: En esta opcion se presentan 4 modos de juegos, Facil, Medio, Dificil
+y Arcade. En Arcade tu principal objetivo no es ganar, si no, obtener
+el mayor puntaje.
+Registro: Aqui se muestra el registro de todas las personas que han jugado,
+especificando nombre, modo de juego, puntaje o estado de juego, fecha 
+y hora especifica.
+Puntaje: En este lugar te deja ver las mejores 15 puntuaciones que se
+han hecho en el modo Arcade a traves de una jerarquia de colores.

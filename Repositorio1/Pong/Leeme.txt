@@ -1,0 +1,1 @@
+La carpeta ficheros se deja a raiz del dico local c, y la libreria se colocca en la carpeta include de Tc20
